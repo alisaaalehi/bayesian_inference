@@ -9,15 +9,21 @@ Let's look at the problem itself:
 We have Dose-Response Data from an Insecticide Study in which insects were exposed to various dose levels of an insecticide and the following is the result of this:
 
 
-Dose	 N	 A
-1.69	 60	6
-1.72	 62	13
-1.76	 63	20
-1.78	 60	30
-1.81	 64	53
-1.84	 60	55
-1.86	 62	61
-1.88	 64	62
+Dose:1.69	 N:60	 A:6
+
+Dose:1.72	 N:62	A:13
+
+Dose:1.76	 N:63	A:20
+
+Dose:1.78	 N:60	A:30
+
+Dose:1.81	 N:64	A:53
+
+Dose:1.84	 N:60	A:55
+
+Dose:1.86	 N:62	A:61
+
+Dose:1.88	 N:64	A:62
 
 
 where N = number exposed; A = number adversely affected.
